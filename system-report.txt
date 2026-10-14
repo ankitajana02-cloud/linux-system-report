@@ -1,0 +1,9 @@
+
+      LINUX SYSTEM REPORT
+
+Generated on: 14 Oct 2026
+Hostname: Ankita-PC
+Kernel Version: 6.8.0
+Disk Usage: 45% used
+Memory Usage: 2GB / 8GB used
+Top Processes: chrome, code, system
